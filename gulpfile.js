@@ -7,7 +7,7 @@ var gulp  = require('gulp'),
     sourcemaps = require('gulp-sourcemaps'),
 
     input  = {
-      'sass': 'sources/scss/**/*.scss',
+      'sass': 'source/scss/**/*.scss',
       'javascript': 'source/javascript/**/*.js',
       'vendorjs': 'public/assets/javascript/vendor/**/*.js'
     },
